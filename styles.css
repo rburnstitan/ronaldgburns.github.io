@@ -54,12 +54,12 @@ li a:hover {
 }
 div.gallery {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid black;
   float: left;
   width: 180px;
 }
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 15px solid black;
 }
 div.gallery img {
   width: 100%;
@@ -68,4 +68,5 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+    font-weight:bold;
 }
