@@ -16,7 +16,8 @@ h2 {
 p {
     color: green;
     border: 1px solid black;
-    text-align: center
+    text-align: center; 
+    font-weight:bold;
 }
 nav {
     text-align: center;
