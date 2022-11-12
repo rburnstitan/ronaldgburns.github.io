@@ -36,15 +36,15 @@ ul {
 }
 li {
   float: left;
-    border-right: 1px solid #bbb;
+    border-right: 1px solid pink;
 }
 li a {
   display: block;
-  color: white;
+  color: blue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 li a:hover {
-  background-color: #111;
+  background-color: purple;
 }
