@@ -21,13 +21,17 @@ p {
 }
 nav {
     text-align: center;
+    font-weight:bold;
 }
 ul {
     text-align: center;
+    font-weight:bold;
 }
 ol {
     text-align: center;
+    font-weight:bold;
 }
 form {
     text-align: center;
+   font-weight:bold;
 }
